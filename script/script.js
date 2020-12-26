@@ -52,7 +52,7 @@ function writeFileForArticle(url, promisedDay){
 			const $ = cheerio.load(html);
 
 			const date = $(".displayDate");
-			const day = date.text().split(", ")[1].split(".")[0];
+			const day = date.text()?.split(", ")[1]?.split(".")[0];
 
 			const title = $(".articleIdentH1");
 			const leadin = $(".leadIn");
