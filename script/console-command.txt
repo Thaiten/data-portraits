@@ -1,0 +1,21 @@
+Date
+document.querySelector(".displayDate").firstElementChild.innerText
+Author
+document.querySelector(".created").innerText
+
+Overhead
+document.querySelector(".overhead").innerText
+Title
+document.querySelector(".posMarker_he").innerText
+
+LeadIn
+document.querySelector(".leadIn").firstElementChild.innerText
+
++"\n"+
+
+console.log(document.querySelector(".displayDate").firstElementChild.innerText+"\n"+document.querySelector(".created").innerText+"\n\n"+document.querySelector(".overhead").innerText+"\n"+document.querySelector(".posMarker_he").innerText+"\n\n"+document.querySelector(".leadIn").firstElementChild.innerText)
+
+for(i = 0; i< document.querySelector(".textBlock").childNodes.length; i++;){
+let child =  document.querySelector(".textBlock").childNodes[i];
+console.log(child);
+}

@@ -1,0 +1,20 @@
+{
+  "name": "focus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.5",
+    "cli-select": "^1.1.2",
+    "get-urls": "^10.0.0",
+    "request": "^2.88.2",
+    "xmldom": "^0.4.0"
+  }
+}
