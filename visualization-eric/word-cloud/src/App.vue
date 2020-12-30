@@ -4,8 +4,8 @@
       <kinesis-element class="main-action" type="depth" :strength="isMobile ? 0 : 5" tag="div" :style="'top: '+topDistance">
         <div ref="container">
           <h1>Nachrichten Analyse</h1>
-          <p>Wir haben 200 Artikel vom 21.12. - 27.12.20 von Focus Online, Spiegel und Deutsche Welle analysiert.</p>
-          <p>Das meist-genutzte Wort kam 283 mal vor. <span class="bold">Gib' eine Zahl ein und finde ein Wort mit der Häufigkeit</span></p>
+          <p>Wir haben 200 Artikel vom 21.12. - 27.12.20 von Focus Online, Spiegel und Deutsche Welle analysiert.<br>
+          Das meist-genutzte Wort kam 283 mal vor. <span class="bold">Gib' eine Zahl ein und finde ein Wort mit der Häufigkeit</span></p>
           <input type="number" name="count" id="" v-model.number="count" @keypress.enter="doSearch" @click="playSound">
           <button @click="doSearch">
             <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-focus-2" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -21,7 +21,26 @@
           <div v-if="searched" class="wortBox">
             <animation :word="activeWord.term" :class="{animated: animation}"/>
             <p>Das Wort kommt <span class="bold">{{springNumber}}</span> mal vor.</p>
-            <a :href="'https://de.wikipedia.org/wiki/'+activeWord.term" target="_blank">Mehr Informationen hierzu auf Wikipedia</a>
+            <a :href="'https://de.wikipedia.org/wiki/'+activeWord.term" target="_blank">Mehr Informationen hierzu auf Wikipedia <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-external-link" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
+              <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+              <path d="M11 7h-5a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-5" />
+              <line x1="10" y1="14" x2="20" y2="4" />
+              <polyline points="15 4 20 4 20 9" />
+            </svg></a>
+            <div class="buttons">
+              <button @click="prev"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-arrow-narrow-left" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                <line x1="5" y1="12" x2="19" y2="12" />
+                <line x1="5" y1="12" x2="9" y2="16" />
+                <line x1="5" y1="12" x2="9" y2="8" />
+              </svg></button>
+              <button @click="next"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-arrow-narrow-right" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+                <line x1="5" y1="12" x2="19" y2="12" />
+                <line x1="15" y1="16" x2="19" y2="12" />
+                <line x1="15" y1="8" x2="19" y2="12" />
+              </svg></button>
+            </div>
           </div>
         </div>
         </kinesis-element>
@@ -61,6 +80,24 @@
         </kinesis-element>
         <kinesis-element class="element" :strength="randomStrength()" type="translate" tag="g">
           <circle cx="1056.5" cy="891.5" r="93.5" stroke="#F0A868" stroke-opacity="0.33" stroke-width="34"/>
+        </kinesis-element>
+        <kinesis-element class="element" :strength="randomStrength()" type="translate" tag="g">
+          <path d="M761.486 654.209C780.532 683.327 819.577 691.492 848.695 672.446L779.723 567C750.605 586.046 742.44 625.091 761.486 654.209Z" fill="#F0A868" fill-opacity="0.36"/>
+        </kinesis-element>
+        <kinesis-element class="element" :strength="randomStrength()" type="translate" tag="g">
+          <path d="M80.2118 206.06C56.0152 231.063 56.6689 270.947 81.6719 295.144L169.295 204.6C144.292 180.403 104.408 181.057 80.2118 206.06Z" fill="#F0A868" fill-opacity="0.36"/>
+        </kinesis-element>
+        <kinesis-element class="element" :strength="randomStrength()" type="translate" tag="g">
+          <path d="M401.405 188.288L438.249 294.672L327.695 273.388L401.405 188.288Z" fill="#F0A868" fill-opacity="0.12"/>
+        </kinesis-element>
+        <kinesis-element class="element" :strength="randomStrength()" type="translate" tag="g">
+          <path d="M1286.42 502.538C1289.43 489.802 1305.1 485.098 1314.62 494.072L1437.86 610.17C1447.39 619.143 1443.63 635.063 1431.09 638.826L1268.93 687.507C1256.4 691.27 1244.49 680.053 1247.5 667.317L1286.42 502.538Z" fill="#F0A868" fill-opacity="0.2"/>
+        </kinesis-element>
+        <kinesis-element class="element" :strength="randomStrength()" type="translate" tag="g">
+          <rect x="492.208" y="715.462" width="29" height="190" transform="rotate(-15.5789 492.208 715.462)" fill="#F0A868" fill-opacity="0.13"/>
+        </kinesis-element>
+        <kinesis-element class="element" :strength="randomStrength()" type="translate" tag="g">
+          <rect x="832.505" y="134.506" width="59.1662" height="190" transform="rotate(12.5264 832.505 134.506)" fill="#F0A868" fill-opacity="0.19"/>
         </kinesis-element>
       </svg>
     </kinesis-container>
@@ -105,12 +142,45 @@ export default {
       if(exactMatches.length > 0){
         this.activeWord = exactMatches[this.getRandomInt(exactMatches.length)];
       }else{
-        this.activeWord = this.list[this.list.reduce((previous, current, i, array) => {
+        const closestNumber = this.list[this.list.reduce((previous, current, i, array) => {
             return i && Math.abs(array[previous].rawFreq - this.count) < Math.abs(current.rawFreq - this.count) ? previous : i;
-        }, -1)];
+        }, -1)].rawFreq;
+        let exactMatches = this.list.filter(term => term.rawFreq == closestNumber);
+        this.activeWord = exactMatches[this.getRandomInt(exactMatches.length)];
       }
 
       window.setTimeout(() => {this.animation = false}, 1000)
+    },
+    prev(){
+      const prevElement = this.activeWord;
+      if(this.count > 10){
+        this.count--;
+        this.doSearch();
+        if(prevElement == this.activeWord){
+          this.prev();
+        }else{
+          this.count = this.activeWord.rawFreq;
+        }
+      } else if(this.count > 283){
+        this.count = 282;
+        this.doSearch();
+      }
+    },
+    next(){
+      const prevElement = this.activeWord;
+      if(this.count < 283){
+        this.count++;
+        this.doSearch();
+        if(prevElement == this.activeWord){
+          this.next();
+        }
+        else{
+          this.count = this.activeWord.rawFreq;
+        }
+      } else if(this.count < 10){
+        this.count = 11;
+        this.doSearch();
+      }
     },
     randomStrength(){
       if(this.isMobile){
@@ -164,6 +234,10 @@ a{
   font-weight: 700;
   display: block;
   text-align: left;
+  margin: 0 0 16px 0;
+}
+a svg{
+  stroke: #91521B;
 }
 .main-action {
   pointer-events: all;
@@ -178,6 +252,7 @@ a{
 }
 .main-action p{
   text-align: left;
+  margin: 0 0 16px 0;
 }
 .main-action p span.bold{
   font-weight: 600;
@@ -213,6 +288,7 @@ svg.svg-container{
   font-weight: 900;
   opacity: .1;
   color: #F0A868;
+  stroke: #F0A868;
 }
 
 input{
@@ -231,6 +307,7 @@ input{
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur( 4px );
   border-radius: 10px;
+  margin: 0 16px;
 }
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
@@ -242,7 +319,9 @@ input[type=number] {
     -moz-appearance:textfield; /* Firefox */
 }
 button{
-  display: inline-block;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
   position: relative;
   height: 48px;
   width: 48px;
@@ -252,7 +331,6 @@ button{
   border-radius: 10px;
   vertical-align: bottom;
   padding: 0;
-  margin-left: 16px;
 }
 button svg{
   height: 32px;
@@ -260,6 +338,10 @@ button svg{
   stroke: #91521B;
 }
 
+.buttons{
+  display: flex;
+  justify-content: space-between;
+}
 .wortBox{
   animation: .5s ease appear;
   height: 165px;
