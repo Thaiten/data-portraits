@@ -1,4 +1,4 @@
-# word-cloud
+# visualization
 
 ## Project setup
 ```
