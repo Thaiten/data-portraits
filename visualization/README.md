@@ -1,24 +1,24 @@
-# visualization
+# Data-Visualization of ~ 200 news-articles.
 
-## Project setup
-```
-npm install
-```
+We've collected 198 news articles from Spiegel, Focus Online and Deutsche Welle from the 21st - 27 of December 2020.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This is my visualization of that data.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Word-Count Guess
 
-### Lints and fixes files
-```
-npm run lint
-```
+![Screenshot of the Word-Cound page](https://i.imgur.com/QqLbTf0.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Here, you type in a number. The site then looks for the closest match.
+
+## Most Used Word
+
+![Screenshot of the quiz](https://i.imgur.com/2VuDA06.png)
+
+You choose the word you think was used most in our analyzed news-articles.
+
+![Screenshot of a guess](https://i.imgur.com/N5vQQ9N.png)
+
+Whoops, wasn't Twitter 🤐
+
+
+I do face some performance issues. Feel free to message me if you have suggestions regarding the render performance!

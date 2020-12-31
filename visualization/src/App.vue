@@ -110,21 +110,7 @@ export default {
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,900;1,700&display=swap');
-/* body{
-    background: var(--background);
-}
-:root{
-  --background: #E6E6E6;
-  --elements: #808080;
-}
-.count{
-  --background: #FFF2DC;
-  --elements: #F0A868;
-}
-.quiz{
-  --background: #DCF9FF;
-  --elements: #689EF0;
-} */
+
 body{
     background: #E6E6E6;
     transition: .3s ease;
@@ -174,7 +160,7 @@ body{
 .navigation{
   position: relative;
   width: 80vw;
-  z-index: 5;
+  z-index: 6;
   pointer-events: all;
   display: flex;
   justify-content: space-around;
@@ -199,6 +185,18 @@ body{
 h1{
   margin-top: 0;
 }
+.main-action {
+  pointer-events: all;
+  z-index: 5;
+  position: relative;
+  min-height: calc(100vh - 4em);
+  margin-top: calc(-1em - 57px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 2em;
+}
 .main-action a{
   color: #ea8b10;
   text-decoration: none;
@@ -209,17 +207,6 @@ h1{
 }
 .main-action a svg{
   stroke: #91521B;
-}
-.main-action {
-  pointer-events: all;
-  z-index: 5;
-  position: relative;
-  min-height: calc(100% - 4em - 1em - 57px);
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  padding: 2em;
 }
 .main-action p{
   text-align: left;
