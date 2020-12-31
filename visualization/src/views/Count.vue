@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Nachrichten Analyse</h1>
+    <VueSparkles><h1>Nachrichten Analyse</h1></VueSparkles>
     <p>Wir haben 200 Artikel vom 21.12. - 27.12.20 von Focus Online, Spiegel und Deutsche Welle analysiert.<br>
     Das meist-genutzte Wort kam 283 mal vor. <span class="bold">Gib' eine Zahl ein und finde ein Wort mit der Häufigkeit</span></p>
     <input type="number" name="count" id="" v-model.number="count" @keypress.enter="doSearch" @click="playSound">

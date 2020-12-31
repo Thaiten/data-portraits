@@ -178,7 +178,7 @@ body{
   pointer-events: all;
   display: flex;
   justify-content: space-around;
-  margin: 1em 10vw 0 10vw;
+  margin: 1em auto 0 auto;
   border: none;
   box-shadow: 0 1px 2px rgba(0,0,0,0.05), 0 2px 4px rgba(0,0,0,0.05), 0 4px 8px rgba(0,0,0,0.05), 0 8px 16px rgba(0,0,0,0.05), 0 16px 32px rgba(0,0,0,0.05), 0 32px 64px rgba(0,0,0,0.05);
   background: rgba(255, 255, 255, 0.5);
@@ -231,7 +231,7 @@ h1{
 .container {
   position: absolute;
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   top: 0;
   left: 0;
   overflow: hidden;
