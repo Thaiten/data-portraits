@@ -4,7 +4,7 @@
 		<p>Eine Interaktive Reise durch die Schlagzeilen vom Dezember 2020</p>
 
 		<p>von Milan Wulf, Hamed Shahsavari, <strong>Eric Wätke</strong>
-		für Data-Portraits - Prof. Myriel Milicevic - WiSe 20/21</p>
+		<br>für Data-Portraits - Prof. Myriel Milicevic - WiSe 20/21</p>
 
 		<h2>wait, what?</h2>
 		<p>Wir haben vom 21.12.2020 bis zum 28.12.2020 <strong>198 Nachrichtenartikel</strong> vom <em>Spiegel, Focus Online </em>und <em>Deutsche Welle</em> gesammelt.</p>
@@ -25,9 +25,9 @@
 					<br>Einige Zahlen behausen natürlich mehrere Wörter, andere gar keins. In dem Fall wird das dichteste Wort angezeigt</p>
 				</div>
 			</div>
-			<div class="interactive">
+			<kinesis-element strength="15" type="depth" tag="div" class="interactive">
 				<WordCount/>
-			</div>
+			</kinesis-element>
 		</div>
 
 		<p>Cool!
@@ -36,14 +36,14 @@
 		<p>Und weil jeder schonmal ‘ne Wordcloud gesehen hat, habe ich <strong>keine</strong> gemacht. Also, mehr oder weniger.</p>
 		
 		<div class="full-bleed">
-			<div class="interactive">
+			<kinesis-element strength="15" type="depth" tag="div" class="interactive">
 				<WordOfFame />
-			</div>
+			</kinesis-element>
 			<dv class="text">
 				<div class="text-wrapper">
 					<h2>##word of fame</h2>
 					<p>Es ist schon bisschen wie eine Wordcloud. Aber nur etwas!</p>
-					<p>Suche aus diesen 9 Worten jenes aus, welches deiner Ansicht nach am öftesten benutzt wurde.</p>
+					<p>Suche aus diesen 9 Worten jenes aus, welches deiner Ansicht nach am öftesten benutzt wurde. Du kannst es gerne öfter versuchen, die Wörter werden zufällig ausgesucht.</p>
 					<p>Bedenke, der Zeitraum der Artikel liegt zwischen dem 21.12. und dem 28.12.2020</p>
 				</div>
 			</dv>
@@ -52,7 +52,7 @@
 		<p>Eyeopening 😮</p>
 		<p>Übrigens: nur 10% aller Antworten die hier jemals gegeben worden, sind richtig.</p>
 		
-		<video src="../assets/clarkson.mp4" autoplay muted loop></video>
+		<video src="../assets/clarkson.mp4" autoplay muted loop poster="../assets/clarkson_thumb.png"></video>
 
 		<p>Alles was wir bis jetzt ausprobiert haben hat sich ausschließlich mit der Wortanzahl von allen Artikeln beschäftigt.</p>
 		<p>Deshalb nutze ich die Gelegenheit, und mache als letzte Interaktion etwas anders.</p>
@@ -123,6 +123,11 @@ export default {
 	.text{
 		.text-wrapper{
 			width: min(65ch, 100%);
+		}
+	}
+	.interactive{
+		.buttons{
+			margin-top: 1em;
 		}
 	}
 }
