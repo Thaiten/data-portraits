@@ -1,0 +1,3503 @@
+{
+  "version": "5.7",
+  "voyantVersion": "2.4",
+  "voyantBuild": "M54",
+  "duration": 7,
+  "corpusTerms": {
+    "total": 291,
+    "terms": [
+      {
+        "term": "haft",
+        "inDocumentsCount": 1,
+        "rawFreq": 4,
+        "relativeFreq": 0.008948546,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.008948546
+        ]
+      },
+      {
+        "term": "corona",
+        "inDocumentsCount": 1,
+        "rawFreq": 3,
+        "relativeFreq": 0.0067114094,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0067114094
+        ]
+      },
+      {
+        "term": "eu",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "explosion",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "frankreich",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "funke",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "impfstoff",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "mediengruppe",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "nashville",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "schnelltests",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "schwerverletzte",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "sterben",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "tot",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "usa",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "verbieten",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "weihnachten",
+        "inDocumentsCount": 1,
+        "rawFreq": 2,
+        "relativeFreq": 0.004474273,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.004474273
+        ]
+      },
+      {
+        "term": "1,8",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "100",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "1300",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "1920",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "2008",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "2028",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "2030er",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "40.000",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "50.000",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "6",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "737",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "aida",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "amtssitz",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "angegriffen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "angeklagten",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "anklage",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "asche",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "attentäter",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "autos",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "außenpolitiker",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "ärzte",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "befürchtet",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "begnadigt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "begrenzt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "behörde",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "beistand",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "bereitschaft",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "berlin",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "besiegt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "biontech",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "blauhelmsoldaten",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "boeing",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "bootsunglück",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "böller",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "brand",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "brasseur",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "brechen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "brexit",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "britischer",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "bundesanwaltschaft",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "china",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "chinas",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "christian",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "claude",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "cyberangriff",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "dankbar",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "dänemark",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "deutschland",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "deutschlands",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "dollar",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "dosen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "drang",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "drohnenstreit",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "drosten",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "dschihad",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "eigentor",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "eilanträge",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "einigung",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "einreisen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "eklatante",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "eltern",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "englands",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "entlassen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "erhebt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "erpressungstrojaner",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "erstmals",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "erwartet",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "euro",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "experte",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "export",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "fabrik",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "fans",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "fest",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "festgenommen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "festgestellt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "fisch",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "fischern",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "flug",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "flüchtlinge",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "folgen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "frauen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "früheren",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "gazastreifen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "gebastelt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "gefragtester",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "geld",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "gerät",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "gericht",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "german",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "geschichtsprofessor",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "geschmuggelt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "gesperrt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "gesprochen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "giant",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "greift",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "groko",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "großbritannien",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "große",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "großteil",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "grünheide",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "hackerangriff",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "halle",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "hamas",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "handelsverband",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "harden",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "harren",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "haschisch",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "hinterbliebene",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "hoffnung",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "hunderttausenden",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "identifiziert",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "illegal",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "impfen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "impfzentren",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "indien",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "innenstadt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "israel",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "iss",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "italienische",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "jahre",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "januar",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "japan",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "kämpft",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "klinik",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "klinikskandal",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "klöckner",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "klub",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "kommissarin",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "kreuzberg",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "kritisiert",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "kuba",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "lange",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "langer",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "lastwagen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "läden",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "lebenslange",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "lebenslanger",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "lech",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "lehnen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "liebe",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "liebes",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "manafort",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "marsch",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "maske",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "max",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "mängel",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "männer",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "messerattacke",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "milizen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "milliarden",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "millionen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "millionenentschädigung",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "mischt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "mitarbeit",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "mitte",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "model",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "modus",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "mordes",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "mutation",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "mutierte",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "mutmaßlichem",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "nationalspieler",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "nawalny",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "nba",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "netanyahus",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "notfall",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "obdach",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "offenbar",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "österreich",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "pakete",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "patriots",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "peking",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "piloten",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "plastikmüll",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "playoffs",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "polizei",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "polizisten",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "post",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "protestieren",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "putin",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "reaktion",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "rechte",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "reformiert",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "regeln",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "republikaner",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "revolution",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "russische",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "sanktionen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "schaltet",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "schärfere",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "scheinsicherheit",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "schließt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "schlimmste",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "schuldig",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "schüsse",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "schwangere",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "schweinetransporter",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "schwer",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "scottys",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "seehofer",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "seenotretter",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "sender",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "sichern",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "sichert",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "silvesterkreuzfahrten",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "sohn",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "spahn",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "staatsanwaltschaft",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "staus",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "stella",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "stellt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "stoltenberg",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "strafe",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "streit",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "streiten",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "stromausfall",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "suizid",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "superstar",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "südafrika",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "tag",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "tausende",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "täter",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "tennullt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "tesla",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "the",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "tiere",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "titelverteidiger",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "tochter",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "tote",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "totschlags",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "töten",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "transportiert",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "trippier",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "trump",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "u",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "unterstützung",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "untersuchungsbericht",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "überholen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "variante",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "verbietet",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "verbrennungsmotoren",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "verdächtigen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "verfassungsrichter",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "verfassungsschutz",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "verkauften",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "verletzen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "verletzt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "verletzte",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "vermiest",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "verpassen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "versorgungsengpässe",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "vertraute",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "verurteilt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "verzögert",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "virus",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "wahlkampfchef",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "walesa",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "warnen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "warnt",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "weihnachtsfest",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "weihnachtsgeschenke",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "weihnachtskekse",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "weihnachtswunder",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "weiterbauen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "weltkrieg",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "wert",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "werten",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "whisky",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "wochen",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "wright",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "zeuge",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "ziele",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "zoll",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "zweimal",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      },
+      {
+        "term": "zweiten",
+        "inDocumentsCount": 1,
+        "rawFreq": 1,
+        "relativeFreq": 0.0022371365,
+        "comparisonRelativeFreqDifference": 0,
+        "relativePeakedness": null,
+        "relativeSkewness": null,
+        "distributions": [
+          0.0022371365
+        ]
+      }
+    ]
+  }
+}

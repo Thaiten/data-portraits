@@ -7,6 +7,13 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import VueKinesis from "vue-kinesis";
 
-// Imports
+// import mitt from 'mitt'
 
-createApp(App).use(VueKinesis).mount('#app')
+// const emitter = mitt()
+
+const app = createApp(App)
+app.use(VueKinesis)
+
+// app.config.globalProperties.emitter = emitter
+
+app.mount('#app')

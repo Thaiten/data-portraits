@@ -15,7 +15,7 @@
     <div v-if="searched" class="wortBox">
       <animation :word="activeWord.term" :class="{animated: animating}"/>
       <p>Das Wort kommt <span class="bold">{{springNumber}}</span> mal vor.</p>
-      <a :href="'https://de.wikipedia.org/wiki/'+activeWord.term" target="_blank">Mehr Informationen hierzu auf Wikipedia <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-external-link" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <a :href="'https://de.wikipedia.org/wiki/'+activeWord.term" target="_blank">Mehr Informationen zum Wort auf Wikipedia <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-external-link" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="#2c3e50" fill="none" stroke-linecap="round" stroke-linejoin="round">
         <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
         <path d="M11 7h-5a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-5" />
         <line x1="10" y1="14" x2="20" y2="4" />
@@ -52,11 +52,14 @@ export default {
 	name: 'App',
 	components: {
 		animation
-	},
-	setup(props) {
-		const [hover] = useSound(buttonHover)
-		const [press] = useSound(buttonPress)
+  },
 
+	setup(props) {		
+    const volume = ref(0.5)
+
+		const [hover] = useSound(buttonHover, {volume})
+    const [press] = useSound(buttonPress, {volume})
+    	
 
 		const list = filteredList;
 		const springValue = ref(0);
@@ -135,7 +138,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 input{
   padding: 0 1em;
   height: 48px;

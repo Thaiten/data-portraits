@@ -43,7 +43,7 @@ export default {
 			if(this.mobile){
 				return 0;
 			}else {
-				return Math.floor(Math.random() * 100);
+				return Math.floor(Math.random() * 5);
 			}
     }
     const maxOpacity = .2;

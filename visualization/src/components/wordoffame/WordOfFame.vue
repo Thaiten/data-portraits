@@ -6,7 +6,7 @@
 				<div class="wort" :id="wort" @click="userInput(i)" @mouseenter="(!finished) ? hoverActions(i) : null" :ref="el => {if (el) buttons[i] = el}">{{list[wort].term}}<span v-show="finished">{{list[wort].rawFreq}}</span></div>
 			</template>
 		</div>
-		<button v-if="finished" @click="reload" @mouseenter="hover">
+		<button v-if="finished" @click="reload" @mouseenter="hoverSound">
 			<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-refresh" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
 				<path stroke="none" d="M0 0h24v24H0z" fill="none"/>
 				<path d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4" />
@@ -16,7 +16,9 @@
 	</div>
 </template>
 <script>
-import { ref, onBeforeUpdate } from 'vue';
+import mitt from "mitt"
+
+import { ref, onBeforeUpdate, watch } from 'vue';
 import useSound from 'vue-use-sound';
 import buttonHover from '../../assets/button.mp3';
 import buttonPress from '../../assets/pop-down.mp3';
@@ -27,11 +29,19 @@ import filteredList from "../../assets/filteredList.json"
 
 export default {
 	name: "WordOfFame",
+	props: {
+		volume: Number
+	},
 	setup(props){
-		const [hover] = useSound(buttonHover)
-		const [press] = useSound(buttonPress)
-		const [lose] = useSound(loseSound)
-		const [win] = useSound(winSound)
+		const volume = ref(0.5)
+
+		const emitter = mitt()
+		emitter.on('volume', e => volume.value = e)
+		
+		const [hover] = useSound(buttonHover, {volume})
+		const [press] = useSound(buttonPress, {volume})
+		const [lose] = useSound(loseSound, {volume})
+		const [win] = useSound(winSound, {volume})
 
 		const list = filteredList;
 
@@ -129,9 +139,12 @@ export default {
 				clickedElement.classList.remove("boop");
 			}, 300)
 		}
+		function hoverSound(){
+			hover();
+		}
 
 		return {
-			userInput, buttons, randomList, reload, finished, hover, hoverActions, highscore, list
+			userInput, buttons, randomList, reload, finished, hoverSound, hoverActions, highscore, list
 		}
 	},
 }
@@ -144,17 +157,18 @@ export default {
 }
 
 .wort{
-  display: inline-flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  position: relative;
-  border: none;
-  vertical-align: bottom;
-  padding: 1em;
-  transition: .7s cubic-bezier(.2,1.84,.71,1) transform, .3s ease background;
-  animation: .4s cubic-bezier(.2,1.84,.71,1) appear;
-  cursor: pointer;
+	font-family: "Helvetica Extended";
+	display: inline-flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	border: none;
+	vertical-align: bottom;
+	padding: 1em;
+	transition: .7s cubic-bezier(.2,1.84,.71,1) transform, .3s ease background;
+	animation: .4s cubic-bezier(.2,1.84,.71,1) appear;
+	cursor: pointer;
 }
 .wort::before{
 	content: "";
@@ -218,12 +232,12 @@ button svg{
   stroke: #1B2D91;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 750px) {
 	.grid{
 		grid-template-columns: repeat(2, 1fr);
 	}
 }
-@media (max-width: 300px) {
+@media (max-width: 500px) {
 	.grid{
 		grid-template-columns: repeat(1, 1fr);
 	}
